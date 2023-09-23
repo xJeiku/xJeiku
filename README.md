@@ -1,6 +1,14 @@
-# 💫 About Me:
+<!-- Header Image -->
 <img src="![Uploading image.png…]()
 " alt="Header Image" width="100%">
+
+# 💫 About Me:
+<br>- 👋 Hi, I’m @xJeiku
+...
+
+
+# 💫 About Me:
+
 
  <br>- 👋 Hi, I’m @xJeiku<br>- 👀 I’m interested in Cyber Security<br>- 🌱 I’m currently learning Programming<br>- 💞️ Motivated and Disciplined
 
