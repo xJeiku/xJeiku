@@ -1,5 +1,4 @@
-![Black Modern Gym Fitness (Poster)](https://gi![Uploading Black Modern Gym Fitness (Poster).png…]()
-thub.com/xJeiku/xJeiku/assets/142654028/0c1ddf15-8af4-4070-be3d-0e1c1e7c645f)
+![Uploading Black Modern Gym Fitness (Poster).png…]()
 
 
 - 👋 Hi, I’m @xJeiku
