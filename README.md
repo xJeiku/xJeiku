@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img src="![Uploading Black Modern Gym Fitness (Poster).png…]()
+<img src="![Uploading image.png…]()
 " alt="Header Image" width="100%">
 
  <br>- 👋 Hi, I’m @xJeiku<br>- 👀 I’m interested in Cyber Security<br>- 🌱 I’m currently learning Programming<br>- 💞️ Motivated and Disciplined
