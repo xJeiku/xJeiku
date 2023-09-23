@@ -1,7 +1,4 @@
-# My GitHub Profile
-
-![Profile Image](![image](https://github.com/xJeiku/xJeiku/assets/142654028/63106952-1644-4ece-8221-53ade59ce662)
-)>
+![Black Modern Gym Fitness (Poster)](https://github.com/xJeiku/xJeiku/assets/142654028/2a0d6828-dd4b-42a6-88e2-095276ed8ba2)
 
 # 💫 About Me:
 <br>- 👋 Hi, I’m @xJeiku
