@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/xJeiku/xJeiku/assets/142654028/84602acc-5bc4-4149-989a-33ff891221d5)
-" alt="Your Image Description" />
+<img src="[URL_OF_YOUR_IMAGE](https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fHww&w=1000&q=80)" alt="Your Image Description" />
 
 # 💫 About Me:
 <br>- 👋 Hi, I’m @xJeiku
