@@ -1,5 +1,6 @@
 
-![Uploading Black Modern Gym Fitness (Poster).png…]()
+![Uploading Black Modern Gym Fitness (Poster).jpg…]()
+
 
 
 - 👋 Hi, I’m @xJeiku
