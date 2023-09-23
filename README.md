@@ -1,6 +1,5 @@
-<!-- Header Image -->
-<img src="![Uploading image.png…]()
-" alt="Header Image" width="100%">
+<img src="![image](https://github.com/xJeiku/xJeiku/assets/142654028/84602acc-5bc4-4149-989a-33ff891221d5)
+" alt="Your Image Description" />
 
 # 💫 About Me:
 <br>- 👋 Hi, I’m @xJeiku
