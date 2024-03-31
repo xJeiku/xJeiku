@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Jake, Dive into my digital domain, where code meets creativity and innovation.</h2>
+<h2 align="center">Hey, I'm Jake. Dive into my digital domain where code meets creativity and innovation.</h2>
 
 <br>
 
