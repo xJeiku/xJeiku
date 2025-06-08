@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dexterjake1999@gmail.com**
 
-- ⚡ Fun fact **I'm a disciplined programmer on a mission to turn lines of code into works of art!**
+- ⚡ **I'm a disciplined programmer on a mission to turn lines of code into works of art!**
 
 
 ###
